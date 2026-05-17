@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Temp files
+sample_audio/
+*.wav
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Database (if local)
+*.db
+
+# Logs
+*.log
